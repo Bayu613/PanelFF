@@ -54,12 +54,12 @@ High-level control panel. Unauthorized usage or reverse engineering is strictly 
 <!-- FEATURES -->
 <table style="color:white; font-size:14px;">
 <tr>
-<td align="center">🔥 IP CONTROL</td>
+<td align="center">🔥 IPv4 CONTROL</td>
 <td align="center">🎯 TARGET LOCK</td>
-<td align="center">🛡️ ANTI DETECTION</td>
+<td align="center">🛡️ ANTI LOSEEE</td>
 </tr>
 <tr>
-<td align="center">⚡ ULTRA SPEED</td>
+<td align="center">⚡ FAST INJECTION</td>
 <td align="center">💀 SILENT EXECUTION</td>
 <td align="center">🚀 BOOST ENGINE</td>
 </tr>
