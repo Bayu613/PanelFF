@@ -39,7 +39,6 @@ Built for performance, designed for domination.
 <tr>
 <td align="center">⚡ Fast Execution</td>
 <td align="center">🎯 Precision Tools</td>
-<td align="center">🛡️ Secure System</td>
 </tr>
 <tr>
 <td align="center">💻 Clean UI</td>
@@ -50,9 +49,5 @@ Built for performance, designed for domination.
 
 <br>
 
-<!-- BUTTON -->
-<a href="#">
-  <img src="https://img.shields.io/badge/LAUNCH%20PANEL-00ffcc?style=for-the-badge&logo=rocket" />
-</a>
 
 </div>
