@@ -25,7 +25,7 @@
 <br><br>
 
 <!-- DESCRIPTION -->
-<h2 style="color:#00ffcc;">🔥 SUNARDEXPLOIT PANEL 🔥</h2>
+<h2 style="color:#00ffcc;">🔥 SUNARDEXPLOIT 🔥</h2>
 
 <p style="color:gray; max-width:600px;">
 Advanced Free Fire Panel with modern UI, fast response, and clean system architecture.
