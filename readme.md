@@ -1,35 +1,46 @@
-<div align="center" style="background:black; padding:20px; border-radius:12px;">
+<div align="center" style="background:black; padding:25px; border-radius:14px;">
 
-<!-- GLITCH TITLE -->
-<h1 style="color:red; text-shadow:0 0 10px red, 0 0 20px crimson;">
+<!-- TITLE -->
+<h1 style="
+color:#ff0000;
+text-shadow:0 0 10px red, 0 0 30px crimson, 0 0 60px darkred;
+letter-spacing:3px;">
 ☠️ SUNARDEXPLOIT ☠️
 </h1>
 
-<!-- ASCII -->
-<div align="center">
-
-<svg width="100%" height="150" viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg">
+<!-- GLITCH ASCII SVG -->
+<svg width="100%" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
   <style>
     .ascii {
       fill: #ff1a1a;
       font-family: monospace;
       font-size: 10px;
       font-weight: bold;
-      text-shadow: 0 0 5px red;
     }
+
     @keyframes glitch {
-      0% { transform: translate(0); clip-path: inset(0 0 0 0); }
-      10% { transform: translate(-2px, 1px); clip-path: inset(10% 0 40% 0); }
-      20% { transform: translate(2px, -1px); clip-path: inset(30% 0 20% 0); }
-      30% { transform: translate(-1px, 2px); }
+      0% { transform: translate(0); }
+      20% { transform: translate(-2px, 2px); }
+      40% { transform: translate(2px, -2px); }
+      60% { transform: translate(-1px, 1px); }
+      80% { transform: translate(1px, -1px); }
       100% { transform: translate(0); }
     }
-    .glitch-layer {
-      animation: glitch 0.3s infinite;
+
+    .glitch1 {
+      animation: glitch 0.8s infinite;
+      fill: red;
+    }
+
+    .glitch2 {
+      animation: glitch 1s infinite;
+      fill: cyan;
+      opacity: 0.4;
     }
   </style>
-  
-  <text x="50%" y="20%" dominant-baseline="middle" text-anchor="middle" class="ascii glitch-layer" style="fill: #00ffff; opacity: 0.4;">
+
+  <!-- BACK LAYER -->
+  <text x="50%" y="20%" text-anchor="middle" class="ascii glitch2">
     <tspan x="50%" dy="1.2em">███████╗██╗   ██╗███╗   ██╗ █████╗ ██████╗ ██████╗ ███████╗██╗  ██╗██████╗ ██╗      ██████╗ ██╗████████╗</tspan>
     <tspan x="50%" dy="1.2em">██╔════╝██║   ██║████╗  ██║██╔══██╗██╔══██╗██╔══██╗██╔════╝╚██╗██╔╝██╔══██╗██║     ██╔═══██╗██║╚══██╔══╝</tspan>
     <tspan x="50%" dy="1.2em">███████╗██║   ██║██╔██╗ ██║███████║██████╔╝██║  ██║█████╗   ╚███╔╝ ██████╔╝██║     ██║   ██║██║   ██║   </tspan>
@@ -38,7 +49,8 @@
     <tspan x="50%" dy="1.2em">╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝   ╚═╝   </tspan>
   </text>
 
-  <text x="50%" y="20%" dominant-baseline="middle" text-anchor="middle" class="ascii glitch-layer">
+  <!-- FRONT LAYER -->
+  <text x="50%" y="20%" text-anchor="middle" class="ascii glitch1">
     <tspan x="50%" dy="1.2em">███████╗██╗   ██╗███╗   ██╗ █████╗ ██████╗ ██████╗ ███████╗██╗  ██╗██████╗ ██╗      ██████╗ ██╗████████╗</tspan>
     <tspan x="50%" dy="1.2em">██╔════╝██║   ██║████╗  ██║██╔══██╗██╔══██╗██╔══██╗██╔════╝╚██╗██╔╝██╔══██╗██║     ██╔═══██╗██║╚══██╔══╝</tspan>
     <tspan x="50%" dy="1.2em">███████╗██║   ██║██╔██╗ ██║███████║██████╔╝██║  ██║█████╗   ╚███╔╝ ██████╔╝██║     ██║   ██║██║   ██║   </tspan>
@@ -47,11 +59,6 @@
     <tspan x="50%" dy="1.2em">╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝   ╚═╝   </tspan>
   </text>
 </svg>
-
-
-</div>
-
-</div>
 
 <br>
 
@@ -65,31 +72,30 @@
 <!-- BANNER -->
 <img src="https://github.com/user-attachments/assets/bff963a2-596a-42cd-8c6f-0c1373650d9b" 
      width="100%" 
-     style="border:2px solid red; border-radius:10px; box-shadow:0 0 30px red;" />
+     style="border:2px solid red; border-radius:12px; box-shadow:0 0 40px red;" />
 
 <br><br>
 
 <!-- WARNING -->
-<h2 style="color:red;">⚠️ ACCESS RESTRICTED ⚠️</h2>
+<h2 style="color:red; text-shadow:0 0 10px red;">⚠️ ACCESS RESTRICTED ⚠️</h2>
 
 <p style="color:#aaa; max-width:650px;">
-This panel is built for advanced users only. Any misuse, reverse engineering,
-or unauthorized access will result in system lock.
+High-level control panel. Unauthorized usage or reverse engineering is strictly prohibited.
 </p>
 
 <br>
 
 <!-- FEATURES -->
-<table style="color:white;">
+<table style="color:white; font-size:14px;">
 <tr>
-<td align="center">🔥 Ip Access</td>
-<td align="center">🎯 Smart Target</td>
-<td align="center">🛡️ Anti Lose</td>
+<td align="center">🔥 IP CONTROL</td>
+<td align="center">🎯 TARGET LOCK</td>
+<td align="center">🛡️ ANTI DETECTION</td>
 </tr>
 <tr>
-<td align="center">⚡ Ultra Fast</td>
-<td align="center">💀 Silent Mode</td>
-<td align="center">🚀 Boost Engine</td>
+<td align="center">⚡ ULTRA SPEED</td>
+<td align="center">💀 SILENT EXECUTION</td>
+<td align="center">🚀 BOOST ENGINE</td>
 </tr>
 </table>
 
