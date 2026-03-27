@@ -6,14 +6,24 @@
 </h1>
 
 <!-- ASCII -->
-<pre style="color:#ff0033; font-weight:bold; text-shadow:0 0 5px red;">
-  ███████╗██╗   ██╗███╗   ██╗ █████╗ ██████╗ ██████╗ ███████╗
-  ██╔════╝██║   ██║████╗  ██║██╔══██╗██╔══██╗██╔══██╗██╔════╝
-  ███████╗██║   ██║██╔██╗ ██║███████║██████╔╝██████╔╝█████╗  
-  ╚════██║██║   ██║██║╚██╗██║██╔══██║██╔═══╝ ██╔═══╝ ██╔══╝  
-  ███████║╚██████╔╝██║ ╚████║██║  ██║██║     ██║     ███████╗
-  ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝
+<div align="center">
+
+<pre style="
+color:#ff1a1a;
+font-weight:bold;
+text-shadow:0 0 8px red;
+line-height: 1.2;">
+███████╗██╗   ██╗███╗   ██╗ █████╗ ██████╗ ██████╗ ███████╗██╗  ██╗██████╗ ██╗      ██████╗ ██╗████████╗
+██╔════╝██║   ██║████╗  ██║██╔══██╗██╔══██╗██╔══██╗██╔════╝╚██╗██╔╝██╔══██╗██║     ██╔═══██╗██║╚══██╔══╝
+███████╗██║   ██║██╔██╗ ██║███████║██████╔╝██║  ██║█████╗   ╚███╔╝ ██████╔╝██║     ██║   ██║██║   ██║   
+╚════██║██║   ██║██║╚██╗██║██╔══██║██╔══██╗██║  ██║██╔══╝   ██╔██╗ ██╔═══╝ ██║     ██║   ██║██║   ██║   
+███████║╚██████╔╝██║ ╚████║██║  ██║██║  ██║██████╔╝███████╗██╔╝ ██╗██║     ███████╗╚██████╔╝██║   ██║   
+╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝   ╚═╝   
 </pre>
+
+<img src="https://github.com/user-attachments/assets/bff963a2-596a-42cd-8c6f-0c1373650d9b" alt="Sunardexploit Banner" width="100%" style="border-radius: 8px; margin-top: 10px;">
+
+</div>
 
 <br>
 
@@ -44,9 +54,9 @@ or unauthorized access will result in system lock.
 <!-- FEATURES -->
 <table style="color:white;">
 <tr>
-<td align="center">🔥 Auto Execute</td>
+<td align="center">🔥 Ip Access</td>
 <td align="center">🎯 Smart Target</td>
-<td align="center">🛡️ Anti Detection</td>
+<td align="center">🛡️ Anti Lose</td>
 </tr>
 <tr>
 <td align="center">⚡ Ultra Fast</td>
