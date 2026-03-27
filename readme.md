@@ -1,53 +1,65 @@
-<div align="center">
+<div align="center" style="background:black; padding:20px; border-radius:12px;">
 
-<!-- LOGO ASCII -->
-<pre style="color:#00ffcc; font-weight:bold;">
-  ____  _   _ _   _   _    ____  ____  _______  _________  _     ___ ___ _____ 
- / ___|| | | | \ | | / \  |  _ \|  _ \| ____\ \/ /  _ \  | |   / _ \_ _|_   _|
- \___ \| | | |  \| |/ _ \ | |_) | | | |  _|  \  /| |_) | | |  | | | | |  | |  
-  ___) | |_| | |\  / ___ \|  _ <| |_| | |___ /  \|  __/  | |__| |_| | |  | |  
- |____/ \___/|_| \/_/   \_\_| \_\____/|_____/_/\_\_|     |_____\___/___| |_|
+<!-- GLITCH TITLE -->
+<h1 style="color:red; text-shadow:0 0 10px red, 0 0 20px crimson;">
+☠️ SUNARDEXPLOIT ☠️
+</h1>
+
+<!-- ASCII -->
+<pre style="color:#ff0033; font-weight:bold; text-shadow:0 0 5px red;">
+  ███████╗██╗   ██╗███╗   ██╗ █████╗ ██████╗ ██████╗ ███████╗
+  ██╔════╝██║   ██║████╗  ██║██╔══██╗██╔══██╗██╔══██╗██╔════╝
+  ███████╗██║   ██║██╔██╗ ██║███████║██████╔╝██████╔╝█████╗  
+  ╚════██║██║   ██║██║╚██╗██║██╔══██║██╔═══╝ ██╔═══╝ ██╔══╝  
+  ███████║╚██████╔╝██║ ╚████║██║  ██║██║     ██║     ███████╗
+  ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝
 </pre>
 
-<!-- BADGE -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=for-the-badge&logo=ghost" />
-<img src="https://img.shields.io/badge/PANEL-FF%20TOOLS-red?style=for-the-badge&logo=gamepad" />
-<img src="https://img.shields.io/badge/VERSION-1.0-blue?style=for-the-badge" />
+<br>
+
+<!-- BADGES -->
+<img src="https://img.shields.io/badge/SYSTEM-ARMED-darkred?style=for-the-badge&logo=skull" />
+<img src="https://img.shields.io/badge/TARGET-FREE%20FIRE-black?style=for-the-badge&logo=gamepad" />
+<img src="https://img.shields.io/badge/STATUS-UNDETECTED-red?style=for-the-badge" />
 
 <br><br>
 
 <!-- BANNER -->
 <img src="https://github.com/user-attachments/assets/bff963a2-596a-42cd-8c6f-0c1373650d9b" 
-     alt="Sunardexploit Banner" 
      width="100%" 
-     style="border-radius:12px; box-shadow:0 0 20px #00ffcc;" />
+     style="border:2px solid red; border-radius:10px; box-shadow:0 0 30px red;" />
 
 <br><br>
 
-<!-- DESCRIPTION -->
-<h2 style="color:#00ffcc;">🔥 SUNARDEXPLOIT 🔥</h2>
+<!-- WARNING -->
+<h2 style="color:red;">⚠️ ACCESS RESTRICTED ⚠️</h2>
 
-<p style="color:gray; max-width:600px;">
-Advanced Free Fire Panel with modern UI, fast response, and clean system architecture.
-Built for performance, designed for domination.
+<p style="color:#aaa; max-width:650px;">
+This panel is built for advanced users only. Any misuse, reverse engineering,
+or unauthorized access will result in system lock.
 </p>
 
 <br>
 
-<!-- FEATURE LIST -->
-<table>
+<!-- FEATURES -->
+<table style="color:white;">
 <tr>
-<td align="center">⚡ Fast Execution</td>
-<td align="center">🎯 Precision Tools</td>
+<td align="center">🔥 Auto Execute</td>
+<td align="center">🎯 Smart Target</td>
+<td align="center">🛡️ Anti Detection</td>
 </tr>
 <tr>
-<td align="center">💻 Clean UI</td>
-<td align="center">🔥 Optimized</td>
-<td align="center">🚀 High Performance</td>
+<td align="center">⚡ Ultra Fast</td>
+<td align="center">💀 Silent Mode</td>
+<td align="center">🚀 Boost Engine</td>
 </tr>
 </table>
 
 <br>
 
+<!-- BUTTON -->
+<a href="#">
+  <img src="https://img.shields.io/badge/ENTER%20SYSTEM-red?style=for-the-badge&logo=power" />
+</a>
 
 </div>
