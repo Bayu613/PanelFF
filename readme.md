@@ -46,7 +46,7 @@ line-height: 1.2;">
 <h2 style="color:red; text-shadow:0 0 10px red;">⚠️ ACCESS RESTRICTED ⚠️</h2>
 
 <p style="color:#aaa; max-width:650px;">
-High-level control panel. Unauthorized usage or reverse engineering is strictly prohibited.
+Remote panel via ipv4, and when you use this to play clash squad you will not lose
 </p>
 
 <br>
