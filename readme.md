@@ -33,11 +33,6 @@ line-height: 1.2;">
 
 <br>
 
-<!-- BADGES -->
-<img src="https://img.shields.io/badge/SYSTEM-ARMED-darkred?style=for-the-badge&logo=skull" />
-<img src="https://img.shields.io/badge/TARGET-FREE%20FIRE-black?style=for-the-badge&logo=gamepad" />
-<img src="https://img.shields.io/badge/STATUS-UNDETECTED-red?style=for-the-badge" />
-
 <br><br>
 
 <!-- BANNER -->
