@@ -8,8 +8,6 @@
 <!-- ASCII -->
 <div align="center">
 
-<div align="center">
-
 <svg width="100%" height="150" viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg">
   <style>
     .ascii {
