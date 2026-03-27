@@ -1,6 +1,10 @@
-```text
-  ____  _   _ _   _   _    ____  ____  _______  _________  _     ___ ___ _____ 
- / ___|| | | | \ | | / \  |  _ \|  _ \| ____\ \/ /  _ \  | |   / _ \_ _|_   _|
- \___ \| | | |  \| |/ _ \ | |_) | | | |  _|  \  /| |_) | | |  | | | | |  | |  
-  ___) | |_| | |\  / ___ \|  _ <| |_| | |___ /  \|  __/  | |__| |_| | |  | |  
- |____/ \___/|_| \/_/   \_\_| \_\____/|_____/_/\_\_|     |_____\___/___| |_|
+```markdown
+<h1 align="center">
+  <br>
+  <samp><b>S U N A R D E X P L O I T</b></samp>
+  <br>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=SYSTEM+ACCESS+GRANTED;ROOT@SUNARDEXPLOIT:~$" alt="Typing SVG" />
+</p>
