@@ -36,9 +36,10 @@ line-height: 1.2;">
 <br><br>
 
 <!-- BANNER -->
-<img src="https://github.com/user-attachments/assets/bff963a2-596a-42cd-8c6f-0c1373650d9b" 
+<img src="https://github.com/user-attachments/assets/9db3af0e-4e48-4377-a6c5-1be85d9297f2"
      width="100%" 
      style="border:2px solid red; border-radius:12px; box-shadow:0 0 40px red;" />
+
 
 <br><br>
 
